@@ -2,9 +2,9 @@
 
 ## Gruppe
 
-- Mohammad Ali Alnaser @ali-alnaser1
-- Jonas Wolf @jonaswolf
-- Mahmoud Almahdi @Mahdi256
+- Mohammad Ali Alnaser (@ali-alnaser1)
+- Jonas Wolf (@jonaswolf)
+- Mahmoud Almahdi (@Mahdi256)
 
 ## Idee
 Eine Anwendung, welche je nach Temperatur und Feuchtigkeit (Luft und Boden) die Bewässerung anpasst. Dazu sollen folgende Daten erfasst werden:
