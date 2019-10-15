@@ -11,7 +11,7 @@ Eine Anwendung, welche je nach Temperatur und Feuchtigkeit (Luft und Boden) die 
 
 - Messen der Luftfeuchtigkeit
 - Messen der Feuchtigkeit in der Erde
-- Messen der Temperatur
+- Messen der Lufttemperatur
 
 Die Daten zu Temperatur und Feuchtigkeit (Luft und Boden) sollen in Echtzeit durch den Nutzer einsehbar sein.
 
