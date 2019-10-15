@@ -1,11 +1,5 @@
 # IoTPflanze
 
-## Teammitglieder:
-Jonas Wolf (@Jonaswolf)
-Mohammad Ali Alnaser(@ali-alnaser1)
-
-
-
 #Gruppe
 Mohammad Ali Alnaser [ali-alnaser1] , Jonas Wolf [jonaswolf] & Mahmoud Almahdi [Mahdi256]
 
