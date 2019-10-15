@@ -1,9 +1,10 @@
 # IoTPflanze
 
-#Gruppe
+# Gruppe
+
 Mohammad Ali Alnaser [ali-alnaser1] , Jonas Wolf [jonaswolf] & Mahmoud Almahdi [Mahdi256]
 
-#Idee
+# Idee
 Eine Anwendung, welche je nach Temperatur und Feuchtigkeit (Luft und Boden) die Bewässerung anpasst. Dazu sollen folgende Daten erfasst werden:
 
     Messen der Luftfeuchtigkeit
@@ -16,7 +17,7 @@ Mögliche Erweiterung:
 
     Durch Speichern der Werte in einer Datenbank soll eine Historie erstellt werden und die Bewässerung anhand von Erfahrungswerten manuell angepasst werden können.
 
-#Einnahmequellen
+# Einnahmequellen
 
     Verkauf von IoT Bundles inklusive Soft- und Hardware
     Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und Hardware)
