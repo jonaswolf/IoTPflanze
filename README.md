@@ -49,10 +49,10 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
 - [Qualitätsstandard Matrix](40_Qualitaetsstandard/QualitaetsstandardMatrix.md)
 
 ### Risiken
-- [Übersicht Risiken](50_Risiken/Risiken.md)
-	+ [Erkennen der Risiken](50_Risiken/RisikenErkennen.md)
-    + [Bewertung der Risiken](50_Risiken/RisikenBewertung.md)
-    + [Vermeidung der Risiken](50_Risiken/RisikenVermeidung.md)
+- [Risiken](50_Risiken/Risiken.pdf)
+	+ Erkennen der Risiken
+    + Bewertung der Risiken
+    + Vermeidung der Risiken
 
 ### Anforderungs Management
 - [Übersicht Requirements Engineering](60_RequirementsEngineering/RequirementsEngineering.md)
