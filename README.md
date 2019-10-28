@@ -43,6 +43,7 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
     + [Nutzungsmetriken](30_Metriken/NutzungsMetriken.md)
     + [Fitness Funktionen](30_Metriken/FitnessFunktionen.md)
     + [Operational Metriken](30_Metriken/OperationalMetriken.md)
+    + [Qualitäts Metriken](30_Metriken/QualitaetsMetriken.md)
 
 ### Qualitätsstandardmatrix
 - [Qualitätsstandard Matrix](40_Qualitaetsstandard/QualitaetsstandardMatrix.md)
