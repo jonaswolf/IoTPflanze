@@ -1,4 +1,5 @@
 ## Product Vision Board
+**Vision**: Pflanzenpflege vereinfachen und effizienter gestalten und dadurch natürliche Ressourcen schonen.
 | **Target Group:** | **Needs:** | **Product:** | **Business Goal:** |
 |--|--|--|--|
 | Haushalte, Büros, Gewächshäuser | Vertrocknen vermeiden, Effizienz, Schonung der Umwelt. | Intelligentes Bewässerungssystem, klein, einfach zu installieren, keine Erfahrung benötigt,  günstig. | Eine Innovation auf den Markt bringen, engagement im Umweltschutz unterstreichen (gesellschaftlicher Trend) |
