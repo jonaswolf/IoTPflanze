@@ -1,4 +1,4 @@
-##Die Dokumentenstruktur
+## Die Dokumentenstruktur
 ### Organisation
 - [Wie Organisiert sich die Gruppe](10_Organisation/Organisation.md)
 - [Umsetzung der Abgabe 1](10_Organisation/UmsetzungAbgabe1.md)
