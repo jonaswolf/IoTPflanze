@@ -1,3 +1,3 @@
 # IoTPflanze
 
-[!INCLUDE[Dateistruktur](../Dateien.md)]
+[!INCLUDE[Dateistruktur](Dateien.md)]
