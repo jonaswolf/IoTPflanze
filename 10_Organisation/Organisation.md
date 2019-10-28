@@ -1,5 +1,5 @@
 # Organisation
 - Mitglieder
-	+ Jonas
-	+ Mohammad Ali
-    + Mahmoud
+    + Mohammad Ali Alnaser (@ali-alnaser1)
+    + Jonas Wolf (@jonaswolf)
+    + Mahmoud Almahdi (@Mahdi256)

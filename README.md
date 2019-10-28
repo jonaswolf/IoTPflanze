@@ -24,6 +24,10 @@ Verkauf von IoT Bundles inklusive Soft- und Hardware
 Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und Hardware)
 
 ## Die Dokumentenstruktur
+### Präsentation
+- [Präsentation zur Abgabe 1](Abgabe1.pdf)
+- [Präsentation zur Abgabe 2](Abgabe2.pdf)
+
 ### Organisation
 - [Wie Organisiert sich die Gruppe](10_Organisation/Organisation.md)
 - [Umsetzung der Abgabe 1](10_Organisation/UmsetzungAbgabe1.md)
