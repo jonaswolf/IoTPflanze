@@ -55,8 +55,16 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
 
 ### Anforderungs Management
 - [Übersicht Requirements Engineering](60_RequirementsEngineering/RequirementsEngineering.md)
-	+ [Anforderungen 1](60_RequirementsEngineering/RequirementsEngineering.md)
-// Hier Noch genauer!
+	+ [Stakeholder](60_RequirementsEngineering/Stakeholder.md)
+    + [Business Requirements](60_RequirementsEngineering/BusinessRequirements.md)
+    + [Business Rules](60_RequirementsEngineering/BusinessRules.md)
+    + [Constraints](60_RequirementsEngineering/Constraints.md)
+    + [Personas](60_RequirementsEngineering/Personas.pptx)
+    + [Themen/Epics](60_RequirementsEngineering/Epics.md)
+    + [User Requirements](60_RequirementsEngineering/UserRequirements.md)
+    + [Functional/Technical Requirements](60_RequirementsEngineering/FunctionalRequirements.md)
+    + [Non-Functional Requirements](60_RequirementsEngineering/NonFunctionalRequirements.md)
+    + [External Interface](60_RequirementsEngineering/ExternalRequirements.md)
 
 ### Release Planung
 - [Release Planung](70_ReleasePlanung/ReleasePlanung.md)
