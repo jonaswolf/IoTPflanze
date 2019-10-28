@@ -1,5 +1,6 @@
 
 # Qualitätsstandard Matrix
+Die Matrix wird falsch angezeigt, jedoch besteht das Problem nur bei GitHub!
 
 | Qualitätsstandard Matrix | **Functional Stability** | **Performance** | **Compatibility** | **Usability** | **Reliability** | **Security** | **Maintainability** | **Portability** |
 |--|--|--|--|--|--|--|--|--|--|
