@@ -1,4 +1,4 @@
-# IoTPflanze
+﻿# IoTPflanze
 ## Gruppe
 
 - Mohammad Ali Alnaser (@ali-alnaser1)
@@ -41,7 +41,6 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
     + [Businessmetriken](30_Metriken/BusinessMetriken.md)
     + [Preismetriken](30_Metriken/PreisMetriken.md)
     + [Nutzungsmetriken](30_Metriken/NutzungsMetriken.md)
-    + [Fitness Funktionen](30_Metriken/FitnessFunktionen.md)
     + [Operational Metriken](30_Metriken/OperationalMetriken.md)
     + [Qualitäts Metriken](30_Metriken/QualitaetsMetriken.md)
 
@@ -49,21 +48,20 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
 - [Qualitätsstandard Matrix](40_Qualitaetsstandard/QualitaetsstandardMatrix.md)
 
 ### Risiken
-- [Risiken](50_Risiken/Risikomanagement.pdf)
+- [Risiken](50_Risiken/Risikomanagement.md)
 - [Risiken Einordnung](50_Risiken/Risiken.pdf)
 	+ Erkennen der Risiken
     + Bewertung der Risiken
     + Vermeidung der Risiken
 
 ### Anforderungs Management
-- [Übersicht Requirements Engineering](60_RequirementsEngineering/RequirementsEngineering.md)
-	+ [Stakeholder](60_RequirementsEngineering/Stakeholder.pdf)
+- Zu Requirements Engineering gehhören:
+    + [Stakeholder](60_RequirementsEngineering/Stakeholder.pdf)
     + [Business Requirements](60_RequirementsEngineering/BusinessRequirements.md)
     + [Business Rules](60_RequirementsEngineering/BusinessRules.md)
     + [Constraints](60_RequirementsEngineering/Constraints.md)
     + [Personas](60_RequirementsEngineering/Personas.pdf)
     + [Themen/Epics](60_RequirementsEngineering/UserStoryEpic.md)
-    + [User Requirements](60_RequirementsEngineering/UserRequirements.md)
     + [Functional/Technical Requirements](60_RequirementsEngineering/FunctionalRequirements.md)
     + [Non-Functional Requirements](60_RequirementsEngineering/NonFunctionalRequirements.md)
     + [External Interface](60_RequirementsEngineering/ExternalRequirements.md)
