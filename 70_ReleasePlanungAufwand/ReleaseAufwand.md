@@ -71,7 +71,7 @@ Unten werden die verschiedenen Releases dargestellt, die Module sollen daei einz
 - Zusammenspiel HW und SW
     + WLAN/Internet Verbindung
 
-## Version 2
+## Version 3
 - Hardwareanforderungen
     + Arduino mit Sensoren
     + Messen der Bodenfeuchtigkeit
