@@ -49,26 +49,25 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
 - [Qualitätsstandard Matrix](40_Qualitaetsstandard/QualitaetsstandardMatrix.md)
 
 ### Risiken
-- [Risiken](50_Risiken/Risiken.pdf)
+- [Risiken](50_Risiken/Risikomanagement.pdf)
+- [Risiken Einordnung](50_Risiken/Risiken.pdf)
 	+ Erkennen der Risiken
     + Bewertung der Risiken
     + Vermeidung der Risiken
 
 ### Anforderungs Management
 - [Übersicht Requirements Engineering](60_RequirementsEngineering/RequirementsEngineering.md)
-	+ [Stakeholder](60_RequirementsEngineering/Stakeholder.md)
+	+ [Stakeholder](60_RequirementsEngineering/Stakeholder.pdf)
     + [Business Requirements](60_RequirementsEngineering/BusinessRequirements.md)
     + [Business Rules](60_RequirementsEngineering/BusinessRules.md)
     + [Constraints](60_RequirementsEngineering/Constraints.md)
-    + [Personas](60_RequirementsEngineering/Personas.pptx)
-    + [Themen/Epics](60_RequirementsEngineering/Epics.md)
+    + [Personas](60_RequirementsEngineering/Personas.pdf)
+    + [Themen/Epics](60_RequirementsEngineering/UserStoryEpic.md)
     + [User Requirements](60_RequirementsEngineering/UserRequirements.md)
     + [Functional/Technical Requirements](60_RequirementsEngineering/FunctionalRequirements.md)
     + [Non-Functional Requirements](60_RequirementsEngineering/NonFunctionalRequirements.md)
     + [External Interface](60_RequirementsEngineering/ExternalRequirements.md)
 
-### Release Planung
-- [Release Planung](70_ReleasePlanung/ReleasePlanung.md)
-
-### Aufwandsschätzung
-- [Aufwandseinschätzung](80_Aufwandsschaetzung/Aufwandsschaetzung.md)
+### Release Planung und Aufwandsschäftzung
+Release wird mit einzelnen Modulen geplant, bei welchen direkt bestmöglich der Aufwand geschäftit wird
+- [Release Planung Aufwandschätzung](70_ReleasePlanungAufwand/ReleaseAufwand.md)
