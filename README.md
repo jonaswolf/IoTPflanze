@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# IoTPflanze
-
-=======
 ﻿# IoTPflanze
->>>>>>> origin/Abgabe2
 ## Gruppe
 
 - Mohammad Ali Alnaser (@ali-alnaser1)
@@ -27,8 +22,6 @@ Durch Speichern der Werte in einer Datenbank soll eine Historie erstellt werden 
 
 Verkauf von IoT Bundles inklusive Soft- und Hardware
 Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und Hardware)
-<<<<<<< HEAD
-=======
 
 ## Die Dokumentenstruktur
 ### Präsentation
@@ -76,4 +69,3 @@ Partnerschaften mit bspw. Pflanzenzüchtern (Wartungsverträge über Soft- und H
 ### Release Planung und Aufwandsschäftzung
 Release wird mit einzelnen Modulen geplant, bei welchen direkt bestmöglich der Aufwand geschäftit wird
 - [Release Planung Aufwandschätzung](70_ReleasePlanungAufwand/ReleaseAufwand.md)
->>>>>>> origin/Abgabe2
